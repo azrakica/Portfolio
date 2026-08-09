@@ -57,12 +57,4 @@
 
 </p>
 
----
-<p align="center"> 
-  
-  <img width="350" height="350" alt="PC" src="https://github.com/user-attachments/assets/1b4c63d6-0acc-4b4a-97a4-d0c24815e911" />
-  <img width="350" height="350" alt="LAPTOP" src="https://github.com/user-attachments/assets/00117d39-13f4-4de0-b0e0-752dcecad8d7" />
-
-</p>
-
 
